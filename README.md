@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @missahrizona
-- 👀 I’m interested in gaming, ui/ux.
-- 🌱 I’m currently learning iOS app development.
-- 💞️ I’m looking to collaborate on open source software :D
+- 👀 I’m interested in alot.
+- 🌱 I’m currently learning several things.
+- 💞️ I’m looking to collaborate with myself on my startup
 - 📫 How to reach me ...
 
 <!---
